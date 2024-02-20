@@ -9,8 +9,7 @@
 
 - 📫 How to reach me - Drop an email at [krisnabonex5743@gmail.com] 
 - ⚡ Fun fact -  I have a soft spot for sad movies and find comfort in their emotional depth and storytelling.
-- <img height="15em" src="https://cdn.discordapp.com/icons/1198836432308019242/d31e0f986f728b3bd26a30974cdc25d4.webp?size=96"/>&nbsp;&nbsp;Front-End and Back-End Cohort at Dicoding Indonesia Batch 6
--  [![logo Dicoding](https://github.com/KRP186zL/KRP186zL/assets/117445664/086ea5a6-c231-4a17-887e-5312d2439db8)](https://www.dicoding.com/)&nbsp;&nbsp;Front-End and Back-End Cohort at Dicoding Indonesia Batch 6
+- <a href="https://www.dicoding.com/"><img height="15em" src="https://cdn.discordapp.com/icons/1198836432308019242/d31e0f986f728b3bd26a30974cdc25d4.webp?size=96"/><a/>&nbsp;&nbsp;Front-End and Back-End Cohort at Dicoding Indonesia Batch 6
 
 <h3 align="left">Let's Connect and Share Ideas:</h3>
 <p align="left">
