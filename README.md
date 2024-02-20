@@ -1,6 +1,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krp186zl&label=Profile%20views&color=0e75b6&style=flat" alt="KRP186zL-git" /> </p>
-<h1 align="center">Hi👋, I'm Krisna Rizki Pratama</h1>
-<h3 align="center">An aspiring Software Engineer</h3>
+<h3 align="center">  
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&color=F7F7F7&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Krisna+Rizki+Pratama!;" /> 
+  </h3>
+<div align="center">
+  <h3>An aspiring Software Engineer</h3>
+  <img src="./assets/shigure-ui-dance.gif" width="55">
+</div>
 
 - 📫 How to reach me - Drop an email at [krisnabonex5743@gmail.com] 
 - ⚡ Fun fact -  I have a soft spot for sad movies and find comfort in their emotional depth and storytelling.
